@@ -74,7 +74,7 @@ $(function() {
           * should have two expectations: does the menu display when
           * clicked and does it hide when clicked again.
           */
-      it("when the meni icon clicked the menu toggle", function() {
+      it("when the menu icon clicked the menu toggle", function() {
 
         // menu hidden by default and will click to open it
         $(".menu-icon-link").click();
