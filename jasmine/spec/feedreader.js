@@ -33,8 +33,8 @@ $(function() {
          */
          it('URL defined and not empty', function() {
             allFeeds.forEach(function(element) {
-                expect(element).toBeDefined();
-                expect(element.length).not.toBe(0);
+                expect(element.url).toBeDefined();
+                expect(element.url).not.toBe(0);
             });
         });
 
@@ -43,9 +43,9 @@ $(function() {
          * in the allFeeds object and ensures it has a name defined
          * and that the name is not empty.
          */
-         it('URL defined and not empty', function() {
+         it('Name defined and not empty', function() {
             allFeeds.forEach(function(element) {
-                expect(element).toBeDefined();
+                expect(element.name).toBeDefined();
                 expect(element.name).not.toBe(0);
             });
         });
