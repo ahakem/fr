@@ -16,10 +16,10 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 
 
 ## How to install the project in my PC
-1. you can download it via this [link](https://github.com/gfxway/fr/archive/master.zip) or you can clone the repo via your terminal `https://github.com/gfxway/fr.git`
+1. you can download it via this [link](https://github.com/ahakem/fr/archive/master.zip) or you can clone the repo via your terminal `https://github.com/ahakem/fr.git`
 2. just open `/index.html` file to enjoy the feeds.
 3. if you want to check where is the code and how it work. just check HTML (**./index.html**), CSS (**./css/style.css**) and JavaScript (**./js/app.js**) to gain an understanding of how it works.
 4. Explore the Jasmine spec file in **./jasmine/spec/feedreader.js** and review the [Jasmine documentation](http://jasmine.github.io).
 
 ## Looking for online demo
-[https://gfxway.github.io/fr/](https://gfxway.github.io/fr/).
+[https://gfxway.github.io/fr/](https://ahakem.github.io/fr/).
